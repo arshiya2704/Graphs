@@ -1,6 +1,6 @@
 # Graphs
 
-Directed/ Undirected graphs technologies:
+Directed/ Undirected graphs using technologies:
 
 • NetworkX
 
